@@ -846,7 +846,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "/Users/andrzejwojciechowski/repos/git/AAWO-KiCad-library/3dmodels/Cmod_A7.stp"
+	(model "${KIPRJMOD}/AAWO-KiCad-library/3dmodels/Cmod_A7.stp"
 		(offset
 			(xyz 0 3.175 10.16)
 		)
